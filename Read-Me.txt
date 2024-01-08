@@ -1,0 +1,12 @@
+Below is the execution path - 
+
+1. 1_RFM_ANALYSIS.ipynb
+2. 2_GBM_with_RF.ipynb
+3. 2_LinearRegression.ipynb
+4. 3_MBG_&_K-means_on_MBG.ipynb
+4. 4_MC_and_Kmeans.ipynb
+5. super_df.ipynb
+6. Analysis.ipynb
+
+
+
