@@ -9,4 +9,8 @@ Below is the execution path -
 6. Analysis.ipynb
 
 
+1_RFM_ANALYSIS.ipynb & 2_GBM_with_RF.ipynb are locked and are available only on request. 
 
+The work inside this repository and the codes are intellectual property of Nathan Aditya Ecka. 
+
+Please do not engage in copying or selling them. Please be mindful of the actions you take. This work is meant for knowledge sharing. 
